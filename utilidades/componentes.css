@@ -19,7 +19,7 @@
 }
 
 .botao:hover {
-    color: var(--cor-1);
+    color: var(--cor-0);
 }
 
 @media (max-width: 37.5rem){
