@@ -16,6 +16,14 @@
     margin-right: auto;
 }
 
+#bicicleta .bicicletas-lista ul {
+    padding: 0rem 0rem 1.25rem 0rem;
+}
+
+.bicicletas-lista li {
+    flex: 1;
+}
+
 .bicicletas-lista a {
     display: block;
 }
